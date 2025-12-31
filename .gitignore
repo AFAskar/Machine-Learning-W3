@@ -13,3 +13,4 @@ misc/
 /curriculum/
 *.tmp
 catboost_info/
+/cache
