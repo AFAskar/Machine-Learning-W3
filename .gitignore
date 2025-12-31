@@ -11,3 +11,5 @@ misc/
 
 # Curriculum folder
 /curriculum/
+*.tmp
+catboost_info/
