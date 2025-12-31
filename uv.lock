@@ -1851,6 +1851,7 @@ dependencies = [
     { name = "pandas" },
     { name = "plotly" },
     { name = "scikit-learn" },
+    { name = "xgboost" },
 ]
 
 [package.dev-dependencies]
@@ -1868,6 +1869,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "plotly", specifier = ">=6.5.0" },
     { name = "scikit-learn", specifier = ">=1.8.0" },
+    { name = "xgboost", specifier = ">=3.1.2" },
 ]
 
 [package.metadata.requires-dev]
